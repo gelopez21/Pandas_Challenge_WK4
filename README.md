@@ -1,4 +1,4 @@
 # Pandas_Challenge_WK4
-Pandas Homework Week 4
 
-For some odd reason, my jupyter uploaded to GitHub wierd. I added screenshots of how it looks when it running/saved in my Jupyter.
+\/ \/ PLEASE READ BELOW \/ \/
+>>>For some reason, my jupyter file uploaded to GitHub very odd. I had to add the screenshots of how it looks when it running/saved in my Jupyter.<<<<
