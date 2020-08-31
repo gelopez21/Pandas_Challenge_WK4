@@ -3,7 +3,7 @@ Heroes of Pymoli
 Generated a report for a GAMING COMPANY that breaks down the game's purchasing data into meaningful insights.
 
 -Player Count
-    -Total Number of Players
+   -Total Number of Players
 
 
 Purchasing Analysis (Total)
